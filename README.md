@@ -3,14 +3,17 @@
 <!--
 **Rishabhpatel803/Rishabhpatel803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+A third year Computer Science student at Galgotias University with an interest in networking and cyber security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Specialties
+• JAVA
+• Linux Administration
+• Kotlin
+• Android App Development 
+
+- 🔭 I’m currently working on ANVIR(a java based personal assistant)
+- 🌱 I’m currently learning Networking and JAVA
+- 👯 I’m looking to collaborate on ANVIR
+- 💬 Ask me about programming
+- 📫 How to reach me: LinkedIn : https://www.linkedin.com/in/rishabh-patel-9333bb1a3/
 -->
