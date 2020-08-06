@@ -6,6 +6,7 @@ Specialties
 • Linux Administration
 • Kotlin
 • Android App Development 
+• Docker 
 
 - 🔭 I’m currently working on ANVIR(a java based personal assistant)
 - 🌱 I’m currently learning Networking and JAVA
