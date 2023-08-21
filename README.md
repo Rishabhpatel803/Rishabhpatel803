@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishabh Patel</h1>
-<h3 align="center">Student at Galgotias University, Greater Noida🌟.</h3>
+<h3 align="center">Salesforce Developer at Cognizant🌟.</h3>
 
 <br>
 
